@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "2",
+  "title": "no use of safeMint() as safe guard for users ",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/29"
+}
