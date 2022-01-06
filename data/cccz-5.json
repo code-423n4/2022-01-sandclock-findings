@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "3",
+  "title": "Users can use the reentrancy vulnerability to get more share tokens",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/5"
+}
