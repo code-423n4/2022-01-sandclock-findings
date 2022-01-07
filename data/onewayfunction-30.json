@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "onewayfunction",
+  "address": "0x660f9D529F01DAfF0A7F15213a8fA39F42FCFe62",
+  "risk": "3",
+  "title": "Attackers can steal yield via reentrancy",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/30"
+}
