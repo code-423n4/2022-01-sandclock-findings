@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "bugwriter001",
+  "address": "0x71e6B570A4CE5ab1AcE7BDF3Bb1E642955cbdacB",
+  "risk": "0",
+  "title": "not compatible with ERC721 standard in Vaults/Claimer.sol",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/35"
+}
