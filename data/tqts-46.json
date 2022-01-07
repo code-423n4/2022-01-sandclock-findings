@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "tqts",
+  "address": "0x5Ac56257422bF362cec13a4367F86dd0a340f79a",
+  "risk": "0",
+  "title": "Unused includes in Vault.sol, Depositors.sol, Claimers.sol",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/46"
+}
