@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "2",
+  "title": "pendingRedeems can be made incorrect by attacker",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/49"
+}
