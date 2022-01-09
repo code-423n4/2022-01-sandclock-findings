@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "3",
+  "title": "Curve Pools Can Be Manipulated Using Flashloans Which Affects `investedAssets()` Calculations",
+  "issueId": 67,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/67"
+}
