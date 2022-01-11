@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "harleythedog",
+  "address": "0x3BD8fb2fB0b11789F8885143D6f14FA3D69f6FC9",
+  "risk": "3",
+  "title": "Reentrancy vulnerability allows attacker to gain more shares than deserved",
+  "issueId": 98,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/98"
+}
