@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "3",
+  "title": "`Vault._withdraw()` uses cached totalShares instead of the updated value in for loop",
+  "issueId": 119,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/119"
+}
