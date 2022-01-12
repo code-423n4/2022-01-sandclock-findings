@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "1",
+  "title": "No input check : claim.pct = 0",
+  "issueId": 187,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/187"
+}
