@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "1",
+  "title": "`Vault.deposit()` Does Not Prevent Zero Amount Deposits",
+  "issueId": 142,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/142"
+}
