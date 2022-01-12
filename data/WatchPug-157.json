@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "[WP-M1] `withdraw()` transactions can often fail",
+  "issueId": 157,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/157"
+}
