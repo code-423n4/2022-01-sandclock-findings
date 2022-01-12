@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "pauliax",
+  "address": "0x0c4243ca087F4e4738596F33292064e847DA80dA",
+  "risk": "1",
+  "title": "_lockedUntil is not deterministic and does not have an upper boundary",
+  "issueId": 175,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/175"
+}
