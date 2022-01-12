@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "DoS on finishing deposits",
+  "issueId": 135,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/135"
+}
