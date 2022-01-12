@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H2] `NonUSTStrategy.sol` Improper handling of swap fees allows attacker to steal funds from other users",
+  "issueId": 158,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/158"
+}
