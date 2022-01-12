@@ -1,0 +1,9 @@
+{
+  "contest": "Sandclock contest",
+  "handle": "Fitraldys",
+  "address": "0xf533f2AB9460DB8d665DDe79773F20eCfB35f860",
+  "risk": "3",
+  "title": "Missing reentrant check can be abused by increasing total share, before transfering underlying token",
+  "issueId": 143,
+  "issueUrl": "https://github.com/code-423n4/2022-01-sandclock-findings/issues/143"
+}
